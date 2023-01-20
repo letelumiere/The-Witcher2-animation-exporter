@@ -18,7 +18,7 @@
 				<hkobject>
 					<hkparam name="name">Root</hkparam>
 					<hkparam name="lockTranslation">false</hkparam>
-				</hkobject>
+				</hkobject>	
 				<hkobject>
 					<hkparam name="name">Trajectory</hkparam>
 					<hkparam name="lockTranslation">false</hkparam>
