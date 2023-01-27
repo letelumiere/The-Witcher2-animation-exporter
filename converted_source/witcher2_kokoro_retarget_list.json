@@ -1,0 +1,283 @@
+{
+    "rokoko_custom_names": true,
+    "version": 1,
+    "bones": {
+        "custom_bone_torso": [
+            "torso",
+            "torso2"
+        ],
+        "custom_bone_torso2": [
+            "torso2",
+            "torso2"
+        ],
+        "custom_bone_l_bicep": [
+            "l_bicep",
+            "l_bicep"
+        ],
+        "custom_bone_l_weapon": [
+            "l_weapon",
+            "l_weapon"
+        ],
+        "custom_bone_l_index3": [
+            "l_index3",
+            "l_index3"
+        ],
+        "custom_bone_l_middle3": [
+            "l_middle3",
+            "l_middle3"
+        ],
+        "custom_bone_l_pinky3": [
+            "l_pinky3",
+            "l_pinky3"
+        ],
+        "custom_bone_l_ring3": [
+            "l_ring3",
+            "l_ring3"
+        ],
+        "custom_bone_l_thumb3": [
+            "l_thumb3",
+            "l_thumb3"
+        ],
+        "custom_bone_l_elbowroll": [
+            "l_elbowroll",
+            "l_elbowroll"
+        ],
+        "custom_bone_l_forearmroll1": [
+            "l_forearmroll1",
+            "l_forearmroll1"
+        ],
+        "custom_bone_l_forearmroll2": [
+            "l_forearmroll2",
+            "l_forearmroll2"
+        ],
+        "custom_bone_l_handroll": [
+            "l_handroll",
+            "l_handroll"
+        ],
+        "custom_bone_l_bicep2": [
+            "l_bicep2",
+            "l_bicep2"
+        ],
+        "custom_bone_l_shoulderroll": [
+            "l_shoulderroll",
+            "l_shoulderroll"
+        ],
+        "custom_bone_r_bicep": [
+            "r_bicep",
+            "r_bicep"
+        ],
+        "custom_bone_r_weapon": [
+            "r_weapon",
+            "r_weapon"
+        ],
+        "custom_bone_r_index3": [
+            "r_index3",
+            "r_index3"
+        ],
+        "custom_bone_r_middle3": [
+            "r_middle3",
+            "r_middle3"
+        ],
+        "custom_bone_r_pinky3": [
+            "r_pinky3",
+            "r_pinky3"
+        ],
+        "custom_bone_r_ring3": [
+            "r_ring3",
+            "r_ring3"
+        ],
+        "custom_bone_r_thumb3": [
+            "r_thumb3",
+            "r_thumb3"
+        ],
+        "custom_bone_r_elbowroll": [
+            "r_elbowroll",
+            "r_elbowroll"
+        ],
+        "custom_bone_r_forearmroll1": [
+            "r_forearmroll1",
+            "r_forearmroll1"
+        ],
+        "custom_bone_r_forearmroll2": [
+            "r_forearmroll2",
+            "r_forearmroll2"
+        ],
+        "custom_bone_r_handroll": [
+            "r_handroll",
+            "r_handroll"
+        ],
+        "custom_bone_r_bicep2": [
+            "r_bicep2",
+            "r_bicep2"
+        ],
+        "custom_bone_r_shoulderroll": [
+            "r_shoulderroll",
+            "r_shoulderroll"
+        ],
+        "custom_bone_l_kneeroll": [
+            "l_kneeroll",
+            "l_kneeroll"
+        ],
+        "custom_bone_l_legroll2": [
+            "l_legroll2",
+            "l_legroll2"
+        ],
+        "custom_bone_r_kneeroll": [
+            "r_kneeroll",
+            "r_kneeroll"
+        ],
+        "custom_bone_r_legroll2": [
+            "r_legroll2",
+            "r_legroll2"
+        ],
+        "custom_bone_l_legroll": [
+            "l_legroll",
+            "l_legroll"
+        ],
+        "custom_bone_r_legroll": [
+            "r_legroll",
+            "r_legroll"
+        ],
+        "custom_bone_ik_root": [
+            "ik_root",
+            "ik_root"
+        ],
+        "custom_bone_ik_weapon": [
+            "ik_weapon",
+            "ik_weapon"
+        ],
+        "custom_bone_l_ik_foot": [
+            "l_ik_foot",
+            "l_ik_foot"
+        ],
+        "custom_bone_l_ik_football": [
+            "l_ik_football",
+            "l_ik_football"
+        ],
+        "custom_bone_l_ik_hand": [
+            "l_ik_hand",
+            "l_ik_hand"
+        ],
+        "custom_bone_l_ik_handpalm": [
+            "l_ik_handpalm",
+            "l_ik_handpalm"
+        ],
+        "custom_bone_r_ik_foot": [
+            "r_ik_foot",
+            "r_ik_foot"
+        ],
+        "custom_bone_r_ik_football": [
+            "r_ik_football",
+            "r_ik_football"
+        ],
+        "custom_bone_r_ik_hand": [
+            "r_ik_hand",
+            "r_ik_hand"
+        ],
+        "custom_bone_r_ik_handpalm": [
+            "r_ik_handpalm",
+            "r_ik_handpalm"
+        ],
+        "custom_bone_trajectory": [
+            "trajectory",
+            "trajactory"
+        ],
+        "custom_bone_trajectory_norot": [
+            "trajectory_norot",
+            "trajactory"
+        ],
+        "custom_bone_pelvis_norot": [
+            "pelvis_norot",
+            "pelvis"
+        ],
+        "custom_bone_torso_norot": [
+            "torso_norot",
+            "torso"
+        ],
+        "custom_bone_torso2_norot": [
+            "torso2_norot",
+            "torso2"
+        ],
+        "custom_bone_neck_norot": [
+            "neck_norot",
+            "neck"
+        ],
+        "custom_bone_head_norot": [
+            "head_norot",
+            "head"
+        ],
+        "custom_bone_l_shoulder_norot": [
+            "l_shoulder_norot",
+            "l_shoulder"
+        ],
+        "custom_bone_l_bicep_norot": [
+            "l_bicep_norot",
+            "l_bicep"
+        ],
+        "custom_bone_l_forearm_norot": [
+            "l_forearm_norot",
+            "l_forearm"
+        ],
+        "custom_bone_l_hand_norot": [
+            "l_hand_norot",
+            "l_hand"
+        ],
+        "custom_bone_l_weapon_norot": [
+            "l_weapon_norot",
+            "l_weapon"
+        ],
+        "custom_bone_l_index1_norot": [
+            "l_index1_norot",
+            "l_index1"
+        ],
+        "custom_bone_l_index2_norot": [
+            "l_index2_norot",
+            "l_index2"
+        ],
+        "custom_bone_l_index3_norot": [
+            "l_index3_norot",
+            "l_index3"
+        ],
+        "custom_bone_l_middle1_norot": [
+            "l_middle1_norot",
+            "l_middle1"
+        ],
+        "custom_bone_l_middle2_norot": [
+            "l_middle2_norot",
+            "l_middle2"
+        ],
+        "custom_bone_l_middle3_norot": [
+            "l_middle3_norot",
+            "l_middle3"
+        ],
+        "custom_bone_l_pinky1_norot": [
+            "l_pinky1_norot",
+            "l_pinky1"
+        ],
+        "custom_bone_l_pinky2_norot": [
+            "l_pinky2_norot",
+            "l_pinky2"
+        ],
+        "custom_bone_l_pinky3_norot": [
+            "l_pinky3_norot",
+            "ik_root"
+        ],
+        "custom_bone_l_ring1_norot": [
+            "l_ring1_norot",
+            "ik_root"
+        ],
+        "custom_bone_l_ring2_norot": [
+            "l_ring2_norot",
+            "l_ring2"
+        ],
+        "custom_bone_l_foot_norot": [
+            "l_foot_norot",
+            "l_foot"
+        ],
+        "custom_bone_r_foot_norot": [
+            "r_foot_norot",
+            "r_foot"
+        ]
+    },
+    "shapes": {}
+}
